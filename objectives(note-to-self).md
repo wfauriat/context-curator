@@ -11,6 +11,11 @@ Wrap the whole project in monitoring / LLM work and interaction grab (Wrapping)
 - Knowledge representation (incl. graph)
 - low level UI and ergonomics
 
+-- PARADIGM 
+- engineering / control
+- human / autom hybridation
+- learnt / specified - grounded hybridation
+
 -- CONTENT
 - Work on permanance layer for the session exchange (for workbench purposes, for monitoring token use, A/B testing prompts)
 - Work on schema for prompt assembling and response parsing

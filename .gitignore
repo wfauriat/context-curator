@@ -1,2 +1,11 @@
 # llmgrab captures (grab-proxy.sh): full prompts and personal data
 captures/
+
+**/.env
+*cache
+**pycache
+
+node_modules/
+workspace/
+
+__pycache__/
